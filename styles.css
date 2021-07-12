@@ -1,0 +1,46 @@
+<style>
+* {
+  font-family: Arial, sans-serif;
+  background-color: #192E40;
+  color: #fff;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+p {
+  margin-top: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #0BBF9D;
+}
+
+h2 {
+  color: #0BBF7D;
+}
+
+table {
+  width: 650px;
+  margin: 0 auto;
+  border: 3px solid #0BBF7D;
+}
+
+th {
+  background-color: #0BBF7D;
+}
+
+td {
+  border-top: 1px solid #0BBF7D;
+}
+
+.tags span {
+  font-family: 'Courier New';
+  background-color: #0BBF9D;
+}
+</style>
