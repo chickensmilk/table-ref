@@ -1,5 +1,4 @@
-<style>
-* {
+body {
   font-family: Arial, sans-serif;
   background-color: #192E40;
   color: #fff;
@@ -15,6 +14,10 @@ p {
 
 a {
   text-decoration: none;
+}
+
+a:visited {
+  color: #fff;
 }
 
 a:hover {
@@ -43,4 +46,3 @@ td {
   font-family: 'Courier New';
   background-color: #0BBF9D;
 }
-</style>
